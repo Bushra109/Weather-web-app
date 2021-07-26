@@ -1,0 +1,106 @@
+body {
+  background-image: url('clouds.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.left {
+  display: inline-block;
+  position: absolute;
+  width: 336px;
+  height: 288px;
+  left: 200px;
+  right: 200px;
+  top: 135px;
+  text-align: center;
+  border-radius: 20px;
+  line-height: 1.5;
+  padding: 25px;
+  background-image: linear-gradient(to right, rgba(164, 202, 239, 0.5), rgba(117, 177, 237, 0.5));
+
+}
+.left p{
+  font-family: 'Otomanopee One', sans-serif;
+}
+
+.right{
+  display: inline-block;
+  position: absolute;
+  padding-left: 893px;
+top: 135px;
+
+
+}
+.right h1{
+font-size: 4rem;
+font-family: 'Otomanopee One', sans-serif;
+}
+img{
+  width:250px;
+}
+
+.container{
+  display:inline-block;
+  position:absolute;
+  width:336px;
+  height:257px;
+  left:811px;
+  right:100px;
+  top:150px;
+  text-align: center;
+    background-image: linear-gradient(to right, rgba(164, 202, 239, 0.5), rgba(117, 177, 237, 0.5));
+  border-radius: 20px;
+  line-height: 1.5;
+  padding:25px;
+
+}
+
+.container label{
+  font-size: 2rem;
+  font-style: bold;
+
+}
+
+.notice{
+  display:inline-block;
+  position:absolute;
+  left:0px;
+  bottom:70px;
+
+}
+
+
+.Quote{
+  position:absolute;
+  top:210px;
+  padding-left: 50px;
+  font-family: 'Caveat', cursive;
+}
+.Quote h1{
+  font-size: 4.5rem;
+}
+
+
+.form-contain {
+  margin: 50px;
+}
+
+.footer-padding {
+  padding-bottom: 60px;
+}
+
+.footer {
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: black;
+}
+
+.footer p {
+  margin-top: 25px;
+  font-size: 15px;
+  color: white;
+}
