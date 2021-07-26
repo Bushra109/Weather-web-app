@@ -11,7 +11,7 @@ app.use(express.static("public"));
 
 app.get("/",function(req,res){
 res.sendFile(__dirname+"/index.html");
-});
+})
 
 const apiKey="e488d0902f5fecff3ecdc62041b8e7e7";
 const unit="metric";
@@ -78,10 +78,6 @@ app.get("/weather",function(req,res){
   console.log(description);
   console.log(imageURL);
 })
-
-
-
-
 
 
 app.listen(process.env.PORT || 3000,function(){
