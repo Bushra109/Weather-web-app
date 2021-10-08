@@ -41,25 +41,25 @@ You can use the application in your local system by following the steps mentione
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
-  sh
+  ```sh
   npm install npm@latest -g
-  
+  ```
 
 ### Installation
 
 1. Open terminal in your project's folder
 2. Clone the repo
-   sh
-   git clone https://github.com/Bushra109/Weather-web-app.git
-   
+   ```sh
+   git clone https://github.com/ranjananubhav7/Weather-Report.git
+   ```
 3. Install NPM packages
-   sh
+   ```sh
    npm install
-   
+   ```
 4. Start the application 
-   sh
+   ```sh
    npm nodemon app.js
-   
+   ```
 
 
 
