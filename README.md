@@ -50,7 +50,7 @@ This is an example of how to list things you need to use the software and how to
 1. Open terminal in your project's folder
 2. Clone the repo
    ```sh
-   git clone https://github.com/ranjananubhav7/Weather-Report.git
+   git clone https://github.com/Bushra109/Weather-web-app.git
    ```
 3. Install NPM packages
    ```sh
