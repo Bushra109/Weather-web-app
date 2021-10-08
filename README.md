@@ -5,8 +5,7 @@
   <h3 align="center">WEATHER WEB APP</h3>
 
  
-    <br />
-    <br />
+  
   
 </p>
 
